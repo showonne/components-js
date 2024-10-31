@@ -1,5 +1,5 @@
 {
-  "name": "@livekit/components-react",
+  "name": "@cc-livekit/components-react",
   "version": "2.6.7",
   "license": "Apache-2.0",
   "author": "LiveKit",
@@ -52,7 +52,7 @@
   },
   "typings": "dist/index.d.ts",
   "dependencies": {
-    "@livekit/components-core": "workspace:*",
+    "@cc-livekit/components-core": "workspace:*",
     "clsx": "2.1.1",
     "usehooks-ts": "3.1.0"
   },
