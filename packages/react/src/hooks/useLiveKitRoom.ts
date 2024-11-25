@@ -1,4 +1,4 @@
-import { log, setupLiveKitRoom } from '@livekit/components-core';
+import { log, setupLiveKitRoom } from '@cc-livekit/components-core';
 import { Room, MediaDeviceFailure, RoomEvent, ConnectionState } from 'livekit-client';
 import * as React from 'react';
 import type { HTMLAttributes } from 'react';
